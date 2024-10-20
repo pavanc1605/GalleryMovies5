@@ -1,0 +1,18 @@
+.movie-card {
+    width: 200px;
+    display: inline-block;
+    white-space: normal;
+  }
+  
+  .movie-poster {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-title {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  

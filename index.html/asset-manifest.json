@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GalleryMovies3/static/css/main.659a29e2.css",
+    "main.js": "/GalleryMovies3/static/js/main.45290829.js",
+    "static/js/453.76cb5ad1.chunk.js": "/GalleryMovies3/static/js/453.76cb5ad1.chunk.js",
+    "index.html": "/GalleryMovies3/index.html",
+    "main.659a29e2.css.map": "/GalleryMovies3/static/css/main.659a29e2.css.map",
+    "main.45290829.js.map": "/GalleryMovies3/static/js/main.45290829.js.map",
+    "453.76cb5ad1.chunk.js.map": "/GalleryMovies3/static/js/453.76cb5ad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659a29e2.css",
+    "static/js/main.45290829.js"
+  ]
+}

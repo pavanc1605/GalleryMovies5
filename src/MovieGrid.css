@@ -1,0 +1,17 @@
+.movie-grid-container {
+    padding: 20px;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .movie-grid {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
